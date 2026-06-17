@@ -179,3 +179,25 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# SCAN23D generated captures, outputs, and deliverables
+Final Presentation/
+Final Report/
+Poster and abstract/
+Prototype Development/
+
+SCAN23D-CODE/rgb/
+SCAN23D-CODE/depth/
+SCAN23D-CODE/background.png
+SCAN23D-CODE/capture_log.json
+SCAN23D-CODE/intrinsics.json
+SCAN23D-CODE/g18_output/
+SCAN23D-CODE/images/
+SCAN23D-CODE/**/*.npy
+SCAN23D-CODE/**/*.npz
+SCAN23D-CODE/**/*.png
+SCAN23D-CODE/**/*.ply
+SCAN23D-CODE/**/*.stl
+SCAN23D-CODE/**/*.obj
+SCAN23D-CODE/**/*.glb
+*.zip
