@@ -1,0 +1,41 @@
+
+cff-version: 1.2.0
+message: "If you use SCAN23D, please cite the published journal article."
+title: "SCAN23D: RGB-D Reconstruction and Orthopedic Cast Generation"
+type: software
+authors:
+  - family-names: AlAjmi
+    given-names: Aysha
+  - family-names: AlHajeri
+    given-names: Nora
+  - family-names: AlAjmi
+    given-names: Rose
+  - family-names: Kamshad
+    given-names: Shahad
+  - family-names: AlFarraj
+    given-names: Layan
+  - family-names: Zakka El Nashef
+    given-names: Georges
+    orcid: "https://orcid.org/0000-0001-9297-0028"
+repository-code: "https://github.com/GZEN24/SCAN23D"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: AlAjmi
+      given-names: Aysha
+    - family-names: AlHajeri
+      given-names: Nora
+    - family-names: AlAjmi
+      given-names: Rose
+    - family-names: Kamshad
+      given-names: Shahad
+    - family-names: AlFarraj
+      given-names: Layan
+    - family-names: Zakka El Nashef
+      given-names: Georges
+  title: "Low-Cost, Open-Source Design and FDM Fabrication of Patient-Specific Orthopedic Forearm Casts from Consumer RGB-D Scanning"
+  journal: "3D Printing and Additive Manufacturing"
+  year: 2026
+  month: 8
+  doi: "10.1177/23297662261477132"

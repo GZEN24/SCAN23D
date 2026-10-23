@@ -2,6 +2,20 @@
 
 SCAN23D contains Python source code for RGB-D capture, 3D reconstruction, and orthopedic cast shell generation. The repository is kept source-focused: raw camera frames, generated meshes, reports, posters, and presentation files are intentionally excluded.
 
+
+## Citation
+
+If you use SCAN23D, its source code, or its methodology in your research, please cite the following peer-reviewed publication:
+
+AlAjmi, A., AlHajeri, N., AlAjmi, R., Kamshad, S., AlFarraj, L., and Zakka El Nashef, G. (2026). "Low-Cost, Open-Source Design and FDM Fabrication of Patient-Specific Orthopedic Forearm Casts from Consumer RGB-D Scanning." *3D Printing and Additive Manufacturing*. OnlineFirst.
+
+**DOI:** https://doi.org/10.1177/23297662261477132
+
+**Source code:** https://github.com/GZEN24/SCAN23D
+
+For reproducibility, please also reference the SCAN23D GitHub repository and the specific commit or release version used.
+
+
 ## Repository layout
 
 - `SCAN23D-CODE/g18_capture.py` - Intel RealSense D435 capture utility.
